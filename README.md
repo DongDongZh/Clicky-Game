@@ -6,7 +6,9 @@ Clicky Game is a memory game built with React. When users click on an image to s
 https://dzhangcoder.github.io/Clicky-Game/
 
 ### Technologies Used:
-React.js 
+- React.js 
+- Node
+- NPM
 
 ### Run the game in your local computer using `npm start`
 
