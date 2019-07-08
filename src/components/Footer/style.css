@@ -1,0 +1,19 @@
+.icon{
+  width: 20px;
+  position: relative;
+  top: 3px;
+  left: 10px;
+}
+
+.lower-footer{
+  background:#5133a4; 
+  color:white; 
+  font-weight: bold; 
+  padding:5px; 
+  text-align:center; 
+}
+
+.upper-footer{
+  background:#6956af; 
+  height:50px; 
+}

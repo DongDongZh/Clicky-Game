@@ -1,0 +1,19 @@
+.one-card{
+  display: inline-block; 
+  margin: 15px 40px;
+  border: 5px solid #f1f1f1;
+  box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+  cursor: pointer;
+}
+
+.one-card:hover{
+  transform: scale(1.05); 
+  box-shadow: 0 10px 20px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+}
+
+.cards-container{
+  display: flex;
+  min-height: 80%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
