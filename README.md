@@ -15,3 +15,7 @@ https://dzhangcoder.github.io/Clicky-Game/
 Open your terminal of the right directory and type `npm start`. 
 Then, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### Contact Information
+
+General Inquiries at ddzhang2018@gmail.com
+
