@@ -3,7 +3,7 @@
 Clicky Game is a memory game built with React. When users click on an image to start, the scoreboard will update whenever you guess correctly or incorrectly. The top score is the highest score you've ever earned in this game. The cards will shuffle automatically when you click on a card. 
 
 ### Deployed Link: 
-https://dzhangcoder.github.io/Clicky-Game/
+https://dongdongzh.github.io/Clicky-Game/
 
 ### How to Play?
 ![CG1](CG1.png)
